@@ -319,5 +319,5 @@ To Configure Hadoop you can follow&nbsp;<a href="https://wiki.apache.org/hadoop/
 <br />
 If you still face any issue feel free to connect with me Email: <a href="mailto:jaypatil.sonu@gmail.com">jaypatil.sonu@gmail.com</a></div>
 <br />
-For Regular updates follow up my blog <a href="https:// apachehadoop3.blogspot.in"> apachehadoop3.blogspot.in</a><br />
+For Regular updates follow up my blog <a href="https://apachehadoop3.blogspot.in"> apachehadoop3.blogspot.in</a><br />
 </div>
